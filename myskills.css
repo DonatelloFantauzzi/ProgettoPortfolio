@@ -1,0 +1,29 @@
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(248, 248, 248);
+    
+}
+
+.skills {
+    background-color: #ffffff;
+    width: 430px;
+    height: 470px;
+    margin:auto;
+    border-radius: 30px;
+    border: 5px solid #489fb5;
+    line-height: 1.5;
+    
+}
+
+h1{
+    text-align: center;
+    padding-top: 10px;
+    color: #489fb5;
+
+}
+
+progress{
+    width: 70%;
+    height: 20px;
+    color: #82c0cc ;
+}

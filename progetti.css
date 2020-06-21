@@ -1,0 +1,33 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(248, 248, 248);
+}
+
+h1{
+    text-align: center;
+    color:  #489fb5;
+    padding-top: 12px;
+}
+
+div{
+    background-color: #ffffff;
+    width: 574px;
+    height: 500px;
+    margin:auto;
+    border-radius: 30px;
+    border: 5px solid #489fb5;
+
+}
+
+p{
+    line-height: 1.5;
+    font-size: 1.2em;
+    padding-left: 4px;
+    padding-top: 10px;
+
+}
+
+b{
+    color:  #489fb5; 
+}
+
